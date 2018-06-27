@@ -1,6 +1,6 @@
 # vim:ft=zsh ts=2 sw=2 sts=2
 #
-# agnoster's Theme - https://gist.github.com/3712874
+# ZYSzys's Theme - https://github.com/ZYSzys/zys-zsh-theme
 # A Powerline-inspired theme for ZSH
 #
 # # README
